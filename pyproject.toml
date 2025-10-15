@@ -1,0 +1,11 @@
+[project]
+name = "pwzn2025-live"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "ascii-graph>=1.5.2",
+    "rich>=14.2.0",
+    "tqdm>=4.67.1",
+]
