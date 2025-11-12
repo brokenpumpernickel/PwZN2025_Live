@@ -6,6 +6,9 @@ readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
     "ascii-graph>=1.5.2",
+    "jupyterlab>=4.4.10",
+    "matplotlib>=3.10.7",
+    "numba>=0.62.1",
     "pillow>=12.0.0",
     "rich>=14.2.0",
     "tqdm>=4.67.1",
