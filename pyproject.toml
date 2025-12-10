@@ -11,6 +11,7 @@ dependencies = [
     "numba>=0.62.1",
     "pillow>=12.0.0",
     "rich>=14.2.0",
+    "scipy>=1.16.3",
     "selenium>=4.38.0",
     "tqdm>=4.67.1",
 ]
