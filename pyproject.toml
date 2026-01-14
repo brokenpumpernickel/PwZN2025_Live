@@ -6,6 +6,8 @@ readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
     "ascii-graph>=1.5.2",
+    "bokeh>=3.8.2",
+    "jupyter-bokeh>=4.0.5",
     "jupyterlab>=4.4.10",
     "matplotlib>=3.10.7",
     "numba>=0.62.1",
